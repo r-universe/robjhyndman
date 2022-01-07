@@ -2,13 +2,13 @@
   {
     "package": "chromote",
     "url": "https://github.com/rstudio/chromote",
-    "via": ["cricketdata", "webshot2"],
+    "via": ["cricketdata", "tweetrmd", "webshot2"],
     "from": "cricketdata"
   },
   {
     "package": "chromote",
     "url": "https://github.com/rstudio/chromote",
-    "via": ["cricketdata", "tweetrmd", "webshot2"],
+    "via": ["cricketdata", "webshot2"],
     "from": "cricketdata"
   },
   {
@@ -26,13 +26,13 @@
   {
     "package": "webshot2",
     "url": "https://github.com/rstudio/webshot2",
-    "via": ["cricketdata"],
+    "via": ["cricketdata", "tweetrmd"],
     "from": "cricketdata"
   },
   {
     "package": "webshot2",
     "url": "https://github.com/rstudio/webshot2",
-    "via": ["cricketdata", "tweetrmd"],
+    "via": ["cricketdata"],
     "from": "cricketdata"
   }
 ]
