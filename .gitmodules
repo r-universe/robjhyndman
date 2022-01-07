@@ -1,5 +1,40 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/robjhyndman/universe
 	shallow = true
 	branch = HEAD
+[submodule "forecast"]
+	path = forecast
+	url = https://github.com/robjhyndman/forecast
+	shallow = true
+	registered = true
+[submodule "hts"]
+	path = hts
+	url = https://github.com/earowang/hts
+	shallow = true
+	registered = true
+[submodule "gratis"]
+	path = gratis
+	url = https://github.com/ykang/gratis
+	shallow = true
+	registered = true
+[submodule "tsibble"]
+	path = tsibble
+	url = https://github.com/tidyverts/tsibble
+	shallow = true
+	registered = true
+[submodule "tsibbledata"]
+	path = tsibbledata
+	url = https://github.com/tidyverts/tsibbledata
+	shallow = true
+	registered = true
+[submodule "feasts"]
+	path = feasts
+	url = https://github.com/tidyverts/feasts
+	shallow = true
+	registered = true
+[submodule "fable"]
+	path = fable
+	url = https://github.com/tidyverts/fable
+	shallow = true
+	registered = true

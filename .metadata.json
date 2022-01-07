@@ -1,0 +1,30 @@
+[
+  {
+    "package": "forecast",
+    "oncran": true
+  },
+  {
+    "package": "hts",
+    "oncran": true
+  },
+  {
+    "package": "gratis",
+    "oncran": true
+  },
+  {
+    "package": "tsibble",
+    "oncran": true
+  },
+  {
+    "package": "tsibbledata",
+    "oncran": true
+  },
+  {
+    "package": "feasts",
+    "oncran": true
+  },
+  {
+    "package": "fable",
+    "oncran": true
+  }
+]
