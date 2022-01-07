@@ -1,14 +1,138 @@
 [
   {
-    "package": "forecast",
-    "oncran": true
+    "package": "ozdata"
   },
   {
     "package": "hts",
     "oncran": true
   },
   {
-    "package": "gratis",
+    "package": "sugrrants",
+    "oncran": true
+  },
+  {
+    "package": "binb",
+    "oncran": true
+  },
+  {
+    "package": "tsdl"
+  },
+  {
+    "package": "Rsfar",
+    "oncran": false
+  },
+  {
+    "package": "eechidna",
+    "oncran": true
+  },
+  {
+    "package": "fasster"
+  },
+  {
+    "package": "vitae",
+    "oncran": true
+  },
+  {
+    "package": "monash"
+  },
+  {
+    "package": "oddstream",
+    "oncran": true
+  },
+  {
+    "package": "oddwater"
+  },
+  {
+    "package": "stray",
+    "oncran": true
+  },
+  {
+    "package": "addb"
+  },
+  {
+    "package": "compenginets"
+  },
+  {
+    "package": "cricketdata"
+  },
+  {
+    "package": "demography",
+    "oncran": true
+  },
+  {
+    "package": "expsmooth",
+    "oncran": true
+  },
+  {
+    "package": "fma",
+    "oncran": true
+  },
+  {
+    "package": "forecast",
+    "oncran": true
+  },
+  {
+    "package": "fpp",
+    "oncran": false
+  },
+  {
+    "package": "fpp2",
+    "oncran": true
+  },
+  {
+    "package": "fpp3",
+    "oncran": true
+  },
+  {
+    "package": "hdrcde",
+    "oncran": true
+  },
+  {
+    "package": "Mcomp",
+    "oncran": true
+  },
+  {
+    "package": "MEFM"
+  },
+  {
+    "package": "ozbabynames"
+  },
+  {
+    "package": "rcademy"
+  },
+  {
+    "package": "thief",
+    "oncran": true
+  },
+  {
+    "package": "tscompdata"
+  },
+  {
+    "package": "tsfeatures",
+    "oncran": true
+  },
+  {
+    "package": "gravitas",
+    "oncran": true
+  },
+  {
+    "package": "lookout",
+    "oncran": false
+  },
+  {
+    "package": "seer",
+    "oncran": true
+  },
+  {
+    "package": "fable",
+    "oncran": true
+  },
+  {
+    "package": "fabletools",
+    "oncran": true
+  },
+  {
+    "package": "feasts",
     "oncran": true
   },
   {
@@ -20,11 +144,19 @@
     "oncran": true
   },
   {
-    "package": "feasts",
+    "package": "bfast",
+    "oncran": false
+  },
+  {
+    "package": "gratis",
     "oncran": true
   },
   {
-    "package": "fable",
+    "package": "stR",
+    "oncran": true
+  },
+  {
+    "package": "smoothAPC",
     "oncran": true
   }
 ]
