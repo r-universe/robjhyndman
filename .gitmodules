@@ -218,18 +218,3 @@
 	url = https://github.com/mitchelloharawild/vitae
 	shallow = true
 	registered = true
-[submodule "chromote"]
-	path = chromote
-	url = https://github.com/rstudio/chromote
-	shallow = true
-	registered = false
-[submodule "tweetrmd"]
-	path = tweetrmd
-	url = https://github.com/gadenbuie/tweetrmd
-	shallow = true
-	registered = false
-[submodule "webshot2"]
-	path = webshot2
-	url = https://github.com/rstudio/webshot2
-	shallow = true
-	registered = false

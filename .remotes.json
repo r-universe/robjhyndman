@@ -1,38 +1,8 @@
 [
   {
-    "package": "chromote",
-    "url": "https://github.com/rstudio/chromote",
-    "via": ["cricketdata", "tweetrmd", "webshot2"],
-    "from": "cricketdata"
-  },
-  {
-    "package": "chromote",
-    "url": "https://github.com/rstudio/chromote",
-    "via": ["cricketdata", "webshot2"],
-    "from": "cricketdata"
-  },
-  {
     "package": "fabletools",
     "url": "https://github.com/tidyverts/fabletools",
     "via": ["fasster"],
     "from": "fasster"
-  },
-  {
-    "package": "tweetrmd",
-    "url": "https://github.com/gadenbuie/tweetrmd",
-    "via": ["cricketdata"],
-    "from": "cricketdata"
-  },
-  {
-    "package": "webshot2",
-    "url": "https://github.com/rstudio/webshot2",
-    "via": ["cricketdata", "tweetrmd"],
-    "from": "cricketdata"
-  },
-  {
-    "package": "webshot2",
-    "url": "https://github.com/rstudio/webshot2",
-    "via": ["cricketdata"],
-    "from": "cricketdata"
   }
 ]
