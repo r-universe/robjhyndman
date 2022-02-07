@@ -14,7 +14,8 @@
     "package": "compenginets"
   },
   {
-    "package": "cricketdata"
+    "package": "cricketdata",
+    "oncran": false
   },
   {
     "package": "demography",
