@@ -15,7 +15,7 @@
   },
   {
     "package": "cricketdata",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "demography",
