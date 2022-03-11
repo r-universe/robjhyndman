@@ -78,7 +78,7 @@
   },
   {
     "package": "lookout",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "Mcomp",
