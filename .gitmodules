@@ -218,3 +218,8 @@
 	url = https://github.com/mitchelloharawild/vitae
 	shallow = true
 	registered = true
+[submodule "distributional"]
+	path = distributional
+	url = https://github.com/mitchelloharawild/distributional
+	shallow = true
+	registered = false
