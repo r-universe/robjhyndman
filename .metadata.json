@@ -119,11 +119,11 @@
   },
   {
     "package": "smoothAPC",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "stR",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "stray",
