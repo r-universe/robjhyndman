@@ -2,12 +2,6 @@
   {
     "package": "distributional",
     "url": "https://github.com/mitchelloharawild/distributional",
-    "via": ["fabletools"],
-    "from": "fabletools"
-  },
-  {
-    "package": "distributional",
-    "url": "https://github.com/mitchelloharawild/distributional",
     "via": ["fasster", "fabletools"],
     "from": "fasster"
   },
