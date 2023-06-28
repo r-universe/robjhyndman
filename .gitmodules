@@ -1,225 +1,137 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/robjhyndman/universe
-	shallow = true
 	branch = HEAD
 [submodule "addb"]
 	path = addb
 	url = https://github.com/robjhyndman/addb
-	shallow = true
-	registered = true
 [submodule "bfast"]
 	path = bfast
 	url = https://github.com/verbe039/bfast
-	shallow = true
-	registered = true
 [submodule "binb"]
 	path = binb
 	url = https://github.com/eddelbuettel/binb
-	shallow = true
-	registered = true
 [submodule "compenginets"]
 	path = compenginets
 	url = https://github.com/robjhyndman/compenginets
-	shallow = true
-	registered = true
 [submodule "cricketdata"]
 	path = cricketdata
 	url = https://github.com/robjhyndman/cricketdata
-	shallow = true
-	registered = true
 [submodule "demography"]
 	path = demography
 	url = https://github.com/robjhyndman/demography
-	shallow = true
-	registered = true
 [submodule "eechidna"]
 	path = eechidna
 	url = https://github.com/jforbes14/eechidna
-	shallow = true
-	registered = true
 [submodule "expsmooth"]
 	path = expsmooth
 	url = https://github.com/robjhyndman/expsmooth
-	shallow = true
-	registered = true
 [submodule "fable"]
 	path = fable
 	url = https://github.com/tidyverts/fable
-	shallow = true
-	registered = true
 [submodule "fabletools"]
 	path = fabletools
 	url = https://github.com/tidyverts/fabletools
-	shallow = true
-	registered = true
 [submodule "fasster"]
 	path = fasster
 	url = https://github.com/mitchelloharawild/fasster
-	shallow = true
-	registered = true
 [submodule "feasts"]
 	path = feasts
 	url = https://github.com/tidyverts/feasts
-	shallow = true
-	registered = true
 [submodule "fma"]
 	path = fma
 	url = https://github.com/robjhyndman/fma
-	shallow = true
-	registered = true
 [submodule "forecast"]
 	path = forecast
 	url = https://github.com/robjhyndman/forecast
-	shallow = true
-	registered = true
 [submodule "fpp2"]
 	path = fpp2
 	url = https://github.com/robjhyndman/fpp2-package
-	shallow = true
-	registered = true
 [submodule "fpp3"]
 	path = fpp3
 	url = https://github.com/robjhyndman/fpp3-package
-	shallow = true
-	registered = true
 [submodule "gratis"]
 	path = gratis
 	url = https://github.com/ykang/gratis
-	shallow = true
-	registered = true
 [submodule "gravitas"]
 	path = gravitas
 	url = https://github.com/sayani07/gravitas
-	shallow = true
-	registered = true
 [submodule "hdrcde"]
 	path = hdrcde
 	url = https://github.com/robjhyndman/hdrcde
-	shallow = true
-	registered = true
 [submodule "hts"]
 	path = hts
 	url = https://github.com/earowang/hts
-	shallow = true
-	registered = true
 [submodule "lookout"]
 	path = lookout
 	url = https://github.com/sevvandi/lookout
-	shallow = true
-	registered = true
 [submodule "Mcomp"]
 	path = Mcomp
 	url = https://github.com/robjhyndman/Mcomp
-	shallow = true
-	registered = true
 [submodule "MEFM"]
 	path = MEFM
 	url = https://github.com/robjhyndman/MEFM-package
-	shallow = true
-	registered = true
 [submodule "monash"]
 	path = monash
 	url = https://github.com/numbats/monash
-	shallow = true
-	registered = true
 [submodule "oddstream"]
 	path = oddstream
 	url = https://github.com/pridiltal/oddstream
-	shallow = true
-	registered = true
 [submodule "oddwater"]
 	path = oddwater
 	url = https://github.com/pridiltal/oddwater
-	shallow = true
-	registered = true
 [submodule "ozbabynames"]
 	path = ozbabynames
 	url = https://github.com/ropenscilabs/ozbabynames
-	shallow = true
-	registered = true
 [submodule "ozdata"]
 	path = ozdata
 	url = https://github.com/AU-BURGr/ozdata
-	shallow = true
-	registered = true
 [submodule "pkgmeta"]
 	path = pkgmeta
 	url = https://github.com/robjhyndman/pkgmeta
-	shallow = true
-	registered = true
 [submodule "rcademy"]
 	path = rcademy
 	url = https://github.com/ropenscilabs/rcademy
-	shallow = true
-	registered = true
 [submodule "Rsfar"]
 	path = Rsfar
 	url = https://github.com/haghbinh/sfar
-	shallow = true
-	registered = true
 [submodule "seer"]
 	path = seer
 	url = https://github.com/thiyangt/seer
-	shallow = true
-	registered = true
 [submodule "smoothAPC"]
 	path = smoothAPC
 	url = https://bitbucket.org/alexanderdokumentov/smoothapcpackage
-	shallow = true
-	registered = true
 [submodule "stR"]
 	path = stR
 	url = https://bitbucket.org/alexanderdokumentov/strpackage
-	shallow = true
-	registered = true
 [submodule "stray"]
 	path = stray
 	url = https://github.com/pridiltal/stray
-	shallow = true
-	registered = true
 [submodule "sugrrants"]
 	path = sugrrants
 	url = https://github.com/earowang/sugrrants
-	shallow = true
-	registered = true
 [submodule "thief"]
 	path = thief
 	url = https://github.com/robjhyndman/thief
-	shallow = true
-	registered = true
 [submodule "tscompdata"]
 	path = tscompdata
 	url = https://github.com/robjhyndman/tscompdata
-	shallow = true
-	registered = true
 [submodule "tsdl"]
 	path = tsdl
 	url = https://github.com/FinYang/tsdl
-	shallow = true
-	registered = true
 [submodule "tsfeatures"]
 	path = tsfeatures
 	url = https://github.com/robjhyndman/tsfeatures
-	shallow = true
-	registered = true
 [submodule "tsibble"]
 	path = tsibble
 	url = https://github.com/tidyverts/tsibble
-	shallow = true
-	registered = true
 [submodule "tsibbledata"]
 	path = tsibbledata
 	url = https://github.com/tidyverts/tsibbledata
-	shallow = true
-	registered = true
 [submodule "vitae"]
 	path = vitae
 	url = https://github.com/mitchelloharawild/vitae
-	shallow = true
-	registered = true
 [submodule "distributional"]
 	path = distributional
 	url = https://github.com/mitchelloharawild/distributional
-	shallow = true
 	registered = false
