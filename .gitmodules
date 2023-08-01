@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/robjhyndman/universe
 	branch = HEAD
+[submodule "MEFM"]
+	path = MEFM
+	url = https://github.com/robjhyndman/MEFM-package
+[submodule "Mcomp"]
+	path = Mcomp
+	url = https://github.com/robjhyndman/Mcomp
+[submodule "Rsfar"]
+	path = Rsfar
+	url = https://github.com/haghbinh/sfar
 [submodule "addb"]
 	path = addb
 	url = https://github.com/robjhyndman/addb
@@ -20,6 +29,10 @@
 [submodule "demography"]
 	path = demography
 	url = https://github.com/robjhyndman/demography
+[submodule "distributional"]
+	path = distributional
+	url = https://github.com/mitchelloharawild/distributional
+	registered = false
 [submodule "eechidna"]
 	path = eechidna
 	url = https://github.com/jforbes14/eechidna
@@ -65,12 +78,6 @@
 [submodule "lookout"]
 	path = lookout
 	url = https://github.com/sevvandi/lookout
-[submodule "Mcomp"]
-	path = Mcomp
-	url = https://github.com/robjhyndman/Mcomp
-[submodule "MEFM"]
-	path = MEFM
-	url = https://github.com/robjhyndman/MEFM-package
 [submodule "monash"]
 	path = monash
 	url = https://github.com/numbats/monash
@@ -92,9 +99,6 @@
 [submodule "rcademy"]
 	path = rcademy
 	url = https://github.com/ropenscilabs/rcademy
-[submodule "Rsfar"]
-	path = Rsfar
-	url = https://github.com/haghbinh/sfar
 [submodule "seer"]
 	path = seer
 	url = https://github.com/thiyangt/seer
@@ -131,7 +135,3 @@
 [submodule "vitae"]
 	path = vitae
 	url = https://github.com/mitchelloharawild/vitae
-[submodule "distributional"]
-	path = distributional
-	url = https://github.com/mitchelloharawild/distributional
-	registered = false
