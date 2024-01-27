@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/robjhyndman/universe
+	url = https://github.com/robjhyndman/robjhyndman.r-universe.dev
 	branch = HEAD
 [submodule "MEFM"]
 	path = MEFM
@@ -19,7 +19,7 @@
 	url = https://github.com/robjhyndman/addb
 [submodule "bfast"]
 	path = bfast
-	url = https://github.com/verbe039/bfast
+	url = https://github.com/bfast2/bfast
 [submodule "binb"]
 	path = binb
 	url = https://github.com/eddelbuettel/binb
@@ -48,6 +48,9 @@
 [submodule "fable"]
 	path = fable
 	url = https://github.com/tidyverts/fable
+[submodule "fable.binary"]
+	path = fable.binary
+	url = https://github.com/tidyverts/fable.binary
 [submodule "fabletools"]
 	path = fabletools
 	url = https://github.com/tidyverts/fabletools
@@ -153,3 +156,6 @@
 [submodule "vital"]
 	path = vital
 	url = https://github.com/robjhyndman/vital
+[submodule "weird"]
+	path = weird
+	url = https://github.com/robjhyndman/weird-package
