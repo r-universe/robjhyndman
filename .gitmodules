@@ -120,12 +120,9 @@
 [submodule "seer"]
 	path = seer
 	url = https://github.com/thiyangt/seer
-[submodule "smoothAPC"]
-	path = smoothAPC
-	url = https://bitbucket.org/alexanderdokumentov/smoothapcpackage
 [submodule "stR"]
 	path = stR
-	url = https://bitbucket.org/alexanderdokumentov/strpackage
+	url = https://bitbucket.org/alexanderdokumentov/strpackage/stR
 [submodule "stray"]
 	path = stray
 	url = https://github.com/pridiltal/stray
