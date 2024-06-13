@@ -122,7 +122,7 @@
 	url = https://github.com/thiyangt/seer
 [submodule "stR"]
 	path = stR
-	url = https://bitbucket.org/alexanderdokumentov/strpackage/stR
+	url = https://bitbucket.org/alexanderdokumentov/strpackage/src/master/stR
 [submodule "stray"]
 	path = stray
 	url = https://github.com/pridiltal/stray
