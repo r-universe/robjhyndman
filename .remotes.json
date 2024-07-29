@@ -10,5 +10,11 @@
     "url": "https://github.com/tidyverts/fabletools",
     "via": ["fasster"],
     "from": "fasster"
+  },
+  {
+    "package": "rAltmetric",
+    "url": "https://github.com/ropensci/rAltmetric",
+    "via": ["rcademy"],
+    "from": "rcademy"
   }
 ]
