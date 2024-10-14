@@ -38,7 +38,6 @@
 [submodule "distributional"]
 	path = distributional
 	url = https://github.com/mitchelloharawild/distributional
-	registered = false
 [submodule "eechidna"]
 	path = eechidna
 	url = https://github.com/jforbes14/eechidna
@@ -104,7 +103,7 @@
 	url = https://github.com/pridiltal/oddwater
 [submodule "ozbabynames"]
 	path = ozbabynames
-	url = https://github.com/ropenscilabs/ozbabynames
+	url = https://github.com/robjhyndman/ozbabynames
 [submodule "ozdata"]
 	path = ozdata
 	url = https://github.com/AU-BURGr/ozdata
@@ -117,13 +116,16 @@
 	registered = false
 [submodule "rcademy"]
 	path = rcademy
-	url = https://github.com/ropenscilabs/rcademy
+	url = https://github.com/robjhyndman/rcademy
 [submodule "rticles"]
 	path = rticles
 	url = https://github.com/rstudio/rticles
 [submodule "seer"]
 	path = seer
 	url = https://github.com/thiyangt/seer
+[submodule "stR"]
+	path = stR
+	url = https://github.com/robjhyndman/stR
 [submodule "stray"]
 	path = stray
 	url = https://github.com/pridiltal/stray
