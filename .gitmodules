@@ -29,6 +29,9 @@
 [submodule "conduits"]
 	path = conduits
 	url = https://github.com/PuwasalaG/conduits
+[submodule "conformalForecast"]
+	path = conformalForecast
+	url = https://github.com/xqnwang/conformalForecast
 [submodule "cricketdata"]
 	path = cricketdata
 	url = https://github.com/robjhyndman/cricketdata
