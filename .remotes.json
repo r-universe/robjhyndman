@@ -12,6 +12,12 @@
     "from": "fasster"
   },
   {
+    "package": "pkgmeta",
+    "url": "https://github.com/robjhyndman/pkgmeta",
+    "via": ["spiderorchid"],
+    "from": "spiderorchid"
+  },
+  {
     "package": "rAltmetric",
     "url": "https://github.com/ropensci/rAltmetric",
     "via": ["rcademy"],
