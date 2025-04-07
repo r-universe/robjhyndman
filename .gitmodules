@@ -126,6 +126,9 @@
 [submodule "seer"]
 	path = seer
 	url = https://github.com/thiyangt/seer
+[submodule "spiderorchid"]
+	path = spiderorchid
+	url = https://github.com/numbats/spiderorchid
 [submodule "stR"]
 	path = stR
 	url = https://github.com/robjhyndman/stR
