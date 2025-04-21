@@ -23,6 +23,9 @@
 [submodule "binb"]
 	path = binb
 	url = https://github.com/eddelbuettel/binb
+[submodule "calcal"]
+	path = calcal
+	url = https://github.com/robjhyndman/calcal
 [submodule "compenginets"]
 	path = compenginets
 	url = https://github.com/robjhyndman/compenginets
