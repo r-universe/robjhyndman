@@ -80,6 +80,9 @@
 [submodule "gghdr"]
 	path = gghdr
 	url = https://github.com/Sayani07/gghdr
+[submodule "ggtime"]
+	path = ggtime
+	url = https://github.com/mitchelloharawild/ggtime
 [submodule "gratis"]
 	path = gratis
 	url = https://github.com/ykang/gratis
