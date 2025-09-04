@@ -102,6 +102,10 @@
 [submodule "lookout"]
 	path = lookout
 	url = https://github.com/sevvandi/lookout
+[submodule "mixtime"]
+	path = mixtime
+	url = https://github.com/mitchelloharawild/mixtime
+	registered = false
 [submodule "monash"]
 	path = monash
 	url = https://github.com/numbats/monash
