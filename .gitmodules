@@ -80,6 +80,10 @@
 [submodule "gghdr"]
 	path = gghdr
 	url = https://github.com/Sayani07/gghdr
+[submodule "ggplot2"]
+	path = ggplot2
+	url = https://github.com/tidyverse/ggplot2
+	registered = false
 [submodule "ggtime"]
 	path = ggtime
 	url = https://github.com/mitchelloharawild/ggtime

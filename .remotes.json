@@ -12,6 +12,12 @@
     "from": "fasster"
   },
   {
+    "package": "ggplot2",
+    "url": "https://github.com/tidyverse/ggplot2",
+    "via": ["ggtime"],
+    "from": "ggtime"
+  },
+  {
     "package": "pkgmeta",
     "url": "https://github.com/robjhyndman/pkgmeta",
     "via": ["spiderorchid"],
