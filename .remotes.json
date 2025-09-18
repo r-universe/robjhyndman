@@ -18,6 +18,12 @@
     "from": "ggtime"
   },
   {
+    "package": "lookout",
+    "url": "https://github.com/sevvandi/lookout",
+    "via": ["weird"],
+    "from": "weird"
+  },
+  {
     "package": "mixtime",
     "url": "https://github.com/mitchelloharawild/mixtime",
     "via": ["ggtime"],
