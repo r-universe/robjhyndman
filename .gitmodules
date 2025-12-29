@@ -124,10 +124,6 @@
 [submodule "pkgmeta"]
 	path = pkgmeta
 	url = https://github.com/robjhyndman/pkgmeta
-[submodule "rAltmetric"]
-	path = rAltmetric
-	url = https://github.com/ropensci/rAltmetric
-	registered = false
 [submodule "rticles"]
 	path = rticles
 	url = https://github.com/rstudio/rticles
