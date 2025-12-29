@@ -121,9 +121,6 @@
 [submodule "ozbabynames"]
 	path = ozbabynames
 	url = https://github.com/robjhyndman/ozbabynames
-[submodule "ozdata"]
-	path = ozdata
-	url = https://github.com/AU-BURGr/ozdata
 [submodule "pkgmeta"]
 	path = pkgmeta
 	url = https://github.com/robjhyndman/pkgmeta
@@ -131,9 +128,6 @@
 	path = rAltmetric
 	url = https://github.com/ropensci/rAltmetric
 	registered = false
-[submodule "rcademy"]
-	path = rcademy
-	url = https://github.com/robjhyndman/rcademy
 [submodule "rticles"]
 	path = rticles
 	url = https://github.com/rstudio/rticles
