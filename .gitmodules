@@ -95,6 +95,9 @@
 [submodule "hts"]
 	path = hts
 	url = https://github.com/earowang/hts
+[submodule "icons"]
+	path = icons
+	url = https://github.com/mitchelloharawild/icons
 [submodule "lookout"]
 	path = lookout
 	url = https://github.com/sevvandi/lookout
